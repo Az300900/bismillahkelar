@@ -1,0 +1,27 @@
+1. Rintangan statis 
+2. Rintangan Dinamis
+3. Nyalip 2 obstacle secara berurutan 
+4. Fokus ke semua jenis penyalipan : 
+
+ List to do : 
+  - Cari referensi salip menyalip beberapa mobil, yang juga bahas soal jarak antara mobil kita dengan mobil berlawanan arah, relasinya dengan kecepatan mobil kita dan mobil berlawanan arah 
+
+  -  
+
+ Kemampuan :  
+  - Bisa menyalip beberapa mobil jika jarak depan kosong / lenggang
+  
+ Batasan 
+  - baterai dianggap mampu supply daya 
+  - kecepatan mobil rintangan 30 km /jam. 
+  - bentuk lintasan lurus 
+  - jarak minimal antara mobil utama dengan mobil lain ? 5 m 
+ 
+ Pengujian : 
+  - Rintangan Statis 
+    penyalipan mobil di depan diam
+
+  - Rintangan Dinamis
+    penyalipan secara bersamaan mobil di depan (mobil depan gerak)
+ 
+    
